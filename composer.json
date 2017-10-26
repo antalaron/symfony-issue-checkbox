@@ -37,5 +37,5 @@
         "symfony/twig-bundle": "<3.3",
         "symfony/debug": "<3.3"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "beta"
 }
